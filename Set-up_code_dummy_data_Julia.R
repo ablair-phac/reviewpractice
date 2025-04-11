@@ -2,7 +2,7 @@
 # Description
 #========================
 
-#' This file was created by Alexandra and Rabina. 
+#' This file was created by Alexandra and Rabina and changed by Juliaaaaaa Guliaaaaaaa Mazzaaaaa
 #' It creates a new dataset and runs some descriptive stats.
 #' 
 
