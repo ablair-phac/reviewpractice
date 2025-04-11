@@ -29,10 +29,16 @@ data<-data.frame(income=c(45000, 48000, 54000, 57000, 65000, 69000,
 data
 
 ##========================
-# NEW VARIABLE
+# NEW VARIABLE DATA SOURCE
 #========================
 
 data$data_source<-"CCHS 2013"
 
 data
+
+#============================
+# Export to excel
+#============================
+
+write.csv(data, "NEW_DATA.csv", row.names = FALSE)
 
