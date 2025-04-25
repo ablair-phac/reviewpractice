@@ -2,7 +2,7 @@
 # Description
 #========================
 
-#' This file was created by Alexandra and Rabina. 
+#' This file was created by Alexandra, Rabina and Matthew. 
 #' It creates a new dataset and runs some descriptive stats.
 #' 
 
@@ -11,7 +11,7 @@
 # PACKAGES
 #========================
 
-
+library(haven)
 
 ##========================
 # DATA
