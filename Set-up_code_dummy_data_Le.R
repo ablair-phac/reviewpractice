@@ -3,7 +3,8 @@
 # add Le name
 #========================
 
-#' This file was created by Alexandra and Rabina. 
+#' This file was created by Alexandra and Rabina
+#' Modified by Le. 
 #' It creates a new dataset and runs some descriptive stats.
 #' 
 
