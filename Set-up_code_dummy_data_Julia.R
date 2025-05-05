@@ -2,7 +2,7 @@
 # Description
 #========================
 
-#' This file was created by Alexandra and Rabina and Julia Guliaaaaa
+#' This file was created by Alexandra and Rabina and Julia Guliaaaaa, who loves mangos.
 #' It creates a new dataset and runs some descriptive stats.
 #' 
 
