@@ -5,8 +5,9 @@
 #' This file was created by Alexandra and Rabina
 #' Modified by Le. 
 #' It creates a new dataset and runs some descriptive stats.
-#' add more comment by Le
 
+#' try to add Le 's name 
+# this is a dummy data code test for Le code
 
 #========================
 # PACKAGES
